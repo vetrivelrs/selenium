@@ -27,6 +27,10 @@ public class Pojo extends BaseClass{
 		return btn;
 	}
 	
+	private void Sysout() {
+		System.out.println("Vetri");
+
+	}
 	
 	
 	
